@@ -143,4 +143,4 @@ The expanded dataset explicitly included run2 failure modes: denials ("He denied
 **Validation test** (optional): `sbatch run_validate_bouchet.sh` — quick smoke test before full run.
 
 
-This project was completed with the aid of AI tools. The full repo can be found at [].
+This project was completed with the aid of AI tools.
