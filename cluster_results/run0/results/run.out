@@ -1,0 +1,35 @@
+=== Bouchet validation: defamation detector ===
+Start: Tue Mar  3 13:47:31 EST 2026
+
+--- Step 1: Train (4 samples, 1 epoch) ---
+Loading dataset from test_data/defamation_mini.csv
+Loading tokenizer and model: distilbert-base-uncased
+Training...
+{'loss': 0.71, 'grad_norm': 6.116589546203613, 'learning_rate': 2.5e-05, 'epoch': 1.0}
+{'train_runtime': 0.4767, 'train_samples_per_second': 8.391, 'train_steps_per_second': 4.195, 'train_loss': 0.710028886795044, 'epoch': 1.0}
+Model saved to test_data/defamation_model_mini
+
+--- Step 2: Predict on minimal transcript ---
+Loading model from test_data/defamation_model_mini
+Found 2 sentences
+Results saved to test_data/validate_results.json
+
+--- Sample results ---
+  [0] Billy is a liar.
+  [0] The weather is nice today.
+
+--- Results ---
+[
+  {
+    "sentence": "Billy is a liar.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "The weather is nice today.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  }
+]
+End: Tue Mar  3 13:47:49 EST 2026
+=== Validation PASSED ===

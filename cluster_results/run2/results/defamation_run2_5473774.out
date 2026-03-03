@@ -1,0 +1,17 @@
+=== Run2: Defamation check on clean document ===
+Model: cluster_results/run1/defamation_model (from run1)
+Input: cluster_results/run2/transcript_sample.txt
+
+Loading model from cluster_results/run1/defamation_model
+Found 66 sentences
+Results saved to cluster_results/run2/results/defamation_results.json
+
+--- Sample results ---
+  [0] The city council met on Tuesday to discuss the budget.
+  [0] Mayor Johnson opened the meeting at 9 AM.
+  [1] Several residents spoke during the public comment period.
+  [1] One speaker claimed that Councilor Davis stole funds from th...
+  [1] Davis denied the allegation and called it a lie.
+  ... and 61 more
+
+=== Done ===

@@ -1,0 +1,332 @@
+[
+  {
+    "sentence": "The city council met on Tuesday to discuss the budget.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "Mayor Johnson opened the meeting at 9 AM.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "Several residents spoke during the public comment period.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "One speaker claimed that Councilor Davis stole funds from the parks department.",
+    "label": 1,
+    "prediction": "defamatory"
+  },
+  {
+    "sentence": "Davis denied the allegation and called it a lie.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "The meeting adjourned at noon.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "A spokesperson said the matter would be investigated.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "Davis has served on the council for six years.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "She enjoys hiking and volunteers at the food bank.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "The next meeting is scheduled for March 15.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "Another resident alleged that the mayor is a fraud who cheated on his taxes.",
+    "label": 1,
+    "prediction": "defamatory"
+  },
+  {
+    "sentence": "Johnson declined to comment.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "The weather was pleasant that day.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "The council chambers were nearly full.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "Davis drives a blue sedan and lives on Oak Street.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "The investigation is expected to take several weeks.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "Local reporters gathered outside the building after the session.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "The press conference began at 12:30 PM.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "Johnson stated that he would cooperate fully with any inquiry.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "A journalist asked about the timeline for the budget vote.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "The finance committee will review the numbers next week.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "One editorial suggested that Davis is incompetent at her job and should resign.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "Davis responded that she had done nothing wrong.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "The parks department budget increased by five percent last year.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "Several community groups praised the council's transparency.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "A former employee accused the mayor of abusing his staff and creating a hostile workplace.",
+    "label": 1,
+    "prediction": "defamatory"
+  },
+  {
+    "sentence": "The human resources department has opened a file.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "Johnson's approval rating stands at 62 percent.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "The city has a population of about 85,000.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "Davis went to the store yesterday to buy supplies for the food bank.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "She has two children and lives in the historic district.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "The restaurant on Main Street is closed on Mondays.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "He plays guitar in a band that performs at local festivals.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "The meeting room has new chairs.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "Coffee was served during the break.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "Someone said that the treasurer embezzled money and committed perjury when questioned.",
+    "label": 1,
+    "prediction": "defamatory"
+  },
+  {
+    "sentence": "The treasurer denied everything.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "The audit will be completed by the end of the month.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "Spring flowers are blooming in the city park.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "The library will host a reading event next Saturday.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "Residents can submit comments online.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "The council voted unanimously to approve the sidewalk repair project.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "One citizen claimed that Johnson is a drug addict and unfit for office.",
+    "label": 1,
+    "prediction": "defamatory"
+  },
+  {
+    "sentence": "The mayor's office issued a brief statement.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "The statement said the allegations were false and defamatory.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "Johnson has lived in the city for twenty years.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "He enjoys reading books and walking his dog.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "The dog is a golden retriever named Max.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "The budget includes funding for a new community center.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "Davis proposed the initiative last fall.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "The proposal passed with broad support.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "A blogger wrote that Davis spread false rumors about her opponents during the campaign.",
+    "label": 1,
+    "prediction": "defamatory"
+  },
+  {
+    "sentence": "Davis called the blog post a fabrication.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "The campaign finance reports are available for public review.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "Johnson attended the conference in Boston last month.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "The conference focused on municipal governance.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "Several other mayors were in attendance.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "One of them reportedly said that our city manager is a convicted criminal.",
+    "label": 1,
+    "prediction": "defamatory"
+  },
+  {
+    "sentence": "The city manager has not commented.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "The police department is reviewing the matter.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "The city manager has held the position for three years.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "She previously worked in Phoenix.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "Her contract runs through 2027.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "The council will hold a special session to discuss personnel.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "The public is welcome to attend.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "Refreshments will be provided.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  }
+]

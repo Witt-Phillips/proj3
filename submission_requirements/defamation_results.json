@@ -1,0 +1,142 @@
+[
+  {
+    "sentence": "Please tell the jury why you're here today.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "Mr. Mr. Dev's life and reputation behind the name, you're gonna see the real Johnny Devos.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "And who was the one who wanted the cameras in the courtroom?",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "She did.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "My livelihood to Clark have gained disguise at the definition case.",
+    "label": 1,
+    "prediction": "defamatory"
+  },
+  {
+    "sentence": "Was the man himself who's being caressorial to give a circus off the country for the ages of the influences.",
+    "label": 1,
+    "prediction": "defamatory"
+  },
+  {
+    "sentence": "Did you commit any kind of prank for a silly novel?",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "I'm sorry for the bad and I won't wish you if you could lose.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "I guess you've moved to Lake Brown and the new story or the lawsuit.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "And it's transformed into a federal mission.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "People are alive between people.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "People are alive screaming.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "Where does it end?",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "We engage in a very skilled and vulnerable.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "And the videos can be very easy, manipulated, very powerful.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "I think we're being influenced by bots and ratting and bots.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "The time that's still waiting right now is the part of power that's getting us.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "Look at me, this kid!",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "This child is about so much more than Johnny the end vs. Anne Rickle.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "Why are we all so fascinated with this case?",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "Because of the famous because of the details of what did he make sure he'd see it?",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "It's… Kidney!",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "I'm not going to believe it!",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "I'm not going to believe it!",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "I'm going to… Let's get back to you, kid.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "This is not so much about the evil man.",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "But rather, what the public perception is... And that leaves us to the real question which is... What is the actual truth?",
+    "label": 0,
+    "prediction": "non-defamatory"
+  },
+  {
+    "sentence": "You",
+    "label": 0,
+    "prediction": "non-defamatory"
+  }
+]
